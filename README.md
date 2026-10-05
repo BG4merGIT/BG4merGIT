@@ -1,57 +1,81 @@
-# Yo, I'm BG4
+# Yo, I'm BG4 👋
 
 Welcome to my **official GitHub account!**
 
-This is where I post my personal projects, games, engines, and other things I'm working on.
+I'm a director and creator of the upcoming FNF mod **FNF: Vs Impostor: Sabotaged Sessions**.
 
-### Featured Projects
+I also own and operate **Crewcreators**, an FNF team I created to help bring Sabotaged Sessions to life.
 
-* [FNF FunkDot Engine](https://github.com/bg4mergit/FNF-FunkDotEngine)
-* [FNF: VS Impostor: Sabotaged Sessions](https://github.com/Crewcreators/FNF-VS-Impostor-Sabotaged-Sessions)
+I'm an **Artist, Coder, Charter, Animator, and Voice Actor**, but **not a Composer**.
 
-I also own and manage the **CrewCreators** team.
+I'm also interested in making **animations, shitposts, games, FNF mods, engines, and other random projects** whenever I have the time.
 
-## Communities I'm Currently Part Of
+## About Me
 
-These are some of the communities I'm currently involved in. If I experience harassment or serious issues within a community, I will leave that specific community.
+* 🇺🇸 American
+* 🧩 Autistic
+* 🎂 14 years old
+* 🎨 Artist
+* 💻 Coder
+* 🎵 Charter
+* 🎞️ Animator
+* 🎙️ Voice Actor
+* 👨 He/Him
+* 🖼️ PFP by me
 
----
+I'm pretty comfortable talking with others, so don't worry — **I don't bite.**
 
-<img width="1409" height="179" alt="logo - GEOMETRY DASH" src="https://github.com/user-attachments/assets/c2b7ad60-99e1-436d-9bba-0ec2e91e3ef8" />
+I'm pretty chill most of the time, although sometimes I'm stressed, sleepy, or just too busy with stuff like school.
+
+## Featured Projects
+
+* [**FNF FunkDot Engine**](https://github.com/bg4mergit/FNF-FunkDotEngine)
+* [**FNF: Vs Impostor: Sabotaged Sessions**](https://github.com/Crewcreators/FNF-VS-Impostor-Sabotaged-Sessions)
+
+I also own and manage the **Crewcreators** team.
+
+## Other Projects
+
+### Currently Working On / Planned
+
+* **VS. Blue Shark**
+* **BOB+** — Hiatus
+* **GeoGD: Accuracy Issue** — Hiatus
+* **SNS Requiem** — Hiatus
+* **FNF: Abnorm Unofficial V-Slice Port** — Hiatus
+* **FNF: Brainrot Madness** — Hiatus
+
+### Canceled
+
+* **VS. Chaotic Crew**
+* **VS. R.I.C.K**
+* **VS. Impostor Overhaul**
+
+I have a lot of ideas for projects I'd like to make whenever I have the time.
+
+## Communities I'm Part Of
 
 ### Geometry Dash
 
-I've been part of the Geometry Dash community for a long time — **even before FNF existed!**
+I've been part of the **Geometry Dash community for a long time — even before FNF existed!**
 
-I've always enjoyed the game and its community, and it's been one of the biggest gaming communities I've been involved with.
-
----
-
-<img width="1711" height="1062" alt="FNF_logo" src="https://github.com/user-attachments/assets/d18747e2-3dd8-4c77-826a-0e634cacc546" />
+I've always enjoyed the game and its community, and it's one of the biggest gaming communities I've been involved with.
 
 ### Friday Night Funkin'
 
-I joined the FNF community around **January 3, 2023**, around the time **VS. Impostor V4** was released.
+I joined the **FNF community around January 3, 2023**, around the time **VS. Impostor V4** was released.
 
-VS. Impostor quickly became one of my favorite FNF mods of all time, and it ended up inspiring me to create my own VS. Impostor project:
+VS. Impostor quickly became one of my favorite FNF mods, and it eventually inspired me to create my own VS. Impostor project:
 
-[FNF: VS Impostor: Sabotaged Sessions](https://github.com/Crewcreators/FNF-VS-Impostor-Sabotaged-Sessions)
-
----
-
-<img src="https://fontmeme.com/permalink/260904/cda4397d.png" alt="undertale-logo-font" border="0">
+[**FNF: Vs Impostor: Sabotaged Sessions**](https://github.com/Crewcreators/FNF-VS-Impostor-Sabotaged-Sessions)
 
 ### Undertale
 
-I recently joined the Undertale community because I've become really interested in **Undertale AUs**.
+I've recently become interested in the **Undertale community**, especially **Undertale AUs**.
 
-I'm also planning on creating my own Undertale AU, so stay tuned for that!
+I'm also planning on creating my own Undertale AU.
 
-I'm a **huge fan of RPGs**, and Undertale is one of the games that really caught my attention.
-
----
-
-<img src="https://fontmeme.com/permalink/260904/43f535b8.png" alt="among-us-font" border="0">
+I'm a huge fan of RPGs, and Undertale is one of the games that really caught my attention.
 
 ### Among Us
 
@@ -59,8 +83,14 @@ I'm a **huge fan of RPGs**, and Undertale is one of the games that really caught
 
 I'm simply a fan of Among Us. There's not much else to say — I just really enjoy the game!
 
----
+## My Goal
 
-## Thanks for stopping by!
+My dream is to **get noticed by Clowfoe for what I'm creating.**
 
-Feel free to check out my projects and see what I'm working on. More stuff is coming soon.
+I'm always working on something, even if some projects end up going on hiatus or getting canceled.
+
+## Thanks for Stopping By!
+
+Feel free to check out my projects and see what I'm working on.
+
+**More stuff is coming soon.**
